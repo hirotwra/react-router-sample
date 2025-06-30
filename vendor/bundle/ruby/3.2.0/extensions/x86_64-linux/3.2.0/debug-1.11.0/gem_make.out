@@ -1,0 +1,19 @@
+current directory: /home/hiro/workspace/react-routes-sample/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+/home/hiro/.rbenv/versions/3.2.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/hiro/workspace/react-routes-sample/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250630-758788-bnbgsa sitelibdir\=./.gem.20250630-758788-bnbgsa clean
+
+current directory: /home/hiro/workspace/react-routes-sample/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250630-758788-bnbgsa sitelibdir\=./.gem.20250630-758788-bnbgsa
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/hiro/workspace/react-routes-sample/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250630-758788-bnbgsa sitelibdir\=./.gem.20250630-758788-bnbgsa install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250630-758788-bnbgsa/debug
+
+current directory: /home/hiro/workspace/react-routes-sample/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250630-758788-bnbgsa sitelibdir\=./.gem.20250630-758788-bnbgsa clean
